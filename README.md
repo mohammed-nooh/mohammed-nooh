@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Mohammed Nooh
-- 🌱 I’m currently learning Web Development on NeogCamp level 0 and Udemy.
-- 👀 I’m into movies,tvshows and reading feel free to check out my projects .Please be patient as i am a newbie and only started coding.
+- Problem Solver and Software Developer
+- 🌱 I’m currently trying to build up skills to become an excellent backend developer.
+- 👀 I’m into movies,tvshows and reading feel free to check out my projects.
 
 <!---
 mohammed-nooh/mohammed-nooh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
